@@ -16,3 +16,5 @@ You will also need the following folders in the same directory as your jar:
 - [ffmpeg-6.1-full_build](https://ffmpeg.org/releases/ffmpeg-6.1.tar.xz) - This version works but it will probably also work with the latest version
 - InputVideos - Empty folder where you put your input videos
 - OutputVideos - Empty folder where this application puts your compilation videos
+
+The free version does not allow compilation videos longer than 1 minute whereas the [full version](https://ashtonhogan.gumroad.com/l/phsfe) has no limitations.
