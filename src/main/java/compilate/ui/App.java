@@ -54,8 +54,6 @@ public class App extends JFrame {
             @Override
             public void run() {
                 App app = new App("Compilate");
-                JOptionPane.showMessageDialog(null, "Press OK to exit.");
-                System.exit(0); // Optional: Explicitly exit the application
             }
         });
     }
